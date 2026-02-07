@@ -143,6 +143,4 @@ Developed using **Streamlit**
 ### Deployment
 - Streamlit
 
----
 
-## 📁 Project Structure
